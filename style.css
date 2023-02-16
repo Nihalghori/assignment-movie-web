@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family:sans-serif;
+}
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.60)),url(felix-mooneeram-evlkOfkQ5rE-unsplash.jpg);
+    background-size: cover;
+    background-position: center
+}
+.black{
+    color: black;
+    position: absolute;
+    right: 0;
+}
+.page-title{
+    position: absolute;
+    top: 300%;
+    right: 15%;
+    font-size: 72px;
+}
+.page-title2{
+    position: absolute;
+    top: 400%;
+    right: 15%;
+    font-size: 52px;
+    padding: 10px;
+}
